@@ -1,0 +1,20 @@
+#!/bin/bash
+
+echo "=== Citrus User Creation ==="
+echo
+
+read -p "Username: " USERNAME
+
+if id "$USERNAME" >/dev/null 2>&1
+then
+    echo
+    echo "User already exists."
+    exit
+fi
+
+useradd -m "$USERNAME"
+
+passwd "$USERNAME"
+
+echo
+echo "User created successfully."

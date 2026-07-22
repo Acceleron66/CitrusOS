@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "Available Commands"
+
+echo
+echo "about"
+echo "createuser"
+echo "cpkg"
+echo "cedit"
+echo "project"
+echo "version"

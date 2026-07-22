@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "CitrusOS"
+echo "Version 1.0"
+echo
+echo "Welcome to the Citrus GUIllotine."
