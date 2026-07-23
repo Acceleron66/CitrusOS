@@ -3,6 +3,11 @@ CitrusOS is a custom subsystem for Windows that is based of Debian Linux. You ca
 
 If you would like the custom prompt, replace your current ~/.bashrc with the code I've supplied
 
+## Big Bugs
+
+- Citrusfiles cannot open certain types of files
+- Listusers does not have any authority checks - Only use this for development if you trus other users on your desktop
+  
 ## Features
 
 - Custom Citrus shell
