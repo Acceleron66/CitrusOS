@@ -1,0 +1,17 @@
+echo
+echo '=================================================='
+echo 'Basic commands'
+echo '=================================================='
+echo 'commands:'
+echo 'commands                  gives a list of commands'
+echo 'about                     Gives an overview of the system'
+echo 'version                   supplies the version number'
+echo 'browser                   opens the Surfraw browser'
+echo
+echo '=================================================='
+echo 'Citrus Guillotine Applications'
+echo '=================================================='
+echo 'citrusedit                A simple text-editor'
+echo 'Citrusfiles               A simple semi-graphical file opener'
+echo 'listusers                 edit user settings'
+echo
